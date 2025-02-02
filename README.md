@@ -1,5 +1,8 @@
 # Student Management System
 
+![Image](https://github.com/user-attachments/assets/6d7a1fb4-29d7-4ea4-81ea-9df65fefb7a4)
+![Image](https://github.com/user-attachments/assets/52fa4ca4-e86b-4eec-a06e-f4fa20ffb739)
+
 A Java-based desktop application for managing student records with a modern graphical user interface.
 
 ## Features
